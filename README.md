@@ -1,4 +1,4 @@
-# PyTorch Seq2Seq Model
+# PyTorch Marvelous ChatBot
 
 ![PicName](http://ofwzcunzi.bkt.clouddn.com/EItTIwqpcrAsrexq.png)
 
