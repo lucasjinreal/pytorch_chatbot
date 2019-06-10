@@ -1,6 +1,9 @@
 # PyTorch Marvelous ChatBot
 
-![PicName](http://ofwzcunzi.bkt.clouddn.com/EItTIwqpcrAsrexq.png)
+[Update]
+
+it's 2019 now, previously model can not catch up state-of-art now. So we just move towards the future **a transformer based chatbot**, it's much more accurate and flexiable as well as full of imagination interms of being a cahtbot!!! More importantly we are opensourced the whole codes here: http://manaai.cn/aicodes_detail3.html?id=36
+Be sure to check it if you interested in chatbot and NLP!! **it's build with tensorflow 2.0 newest api!!**
 
 
 > Aim to build a Marvelous ChatBot
@@ -13,7 +16,6 @@ This is the first and the only opensource of **ChatBot**, I will continues updat
 This repo will maintain to build a **Marvelous ChatBot** based on PyTorch,
 welcome star and submit PR.
 
-![PicName](http://ofwzcunzi.bkt.clouddn.com/FmLv0IpsmiMkLGiQ.png)
 # Already Done
 
 Currently this repo did those work:
